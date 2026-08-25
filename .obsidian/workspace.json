@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "5b38d38f16bcbe39",
+    "type": "split",
+    "children": [
+      {
+        "id": "4533c669ee03cf81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa8dc9851e71bb1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_研究計畫/研究計畫書.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "研究計畫書"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dcd0775393dade6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc77cae33ba112f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5f9870796ae17b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "3628122c7d49f981",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "2dd90feafc90aadc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43ef410224d31a0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d29a2f411c80e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28a50473f9897697",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_公司設立/設立流程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "a11a87fb4025dea3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_公司設立/設立流程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "4e3a6ac4143e640c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "7eeccaa4049c1344",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "5b782ec79ddc75e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_公司設立/設立流程.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "fa8dc9851e71bb1f",
+  "lastOpenFiles": [
+    "00_研究計畫/大葉園藝有限公司.pdf",
+    "04_營利事業所得稅/首年稅務運作圖解與全年化計算.md",
+    "03_營業稅申報/403兼營申報實務.md",
+    "01_公司設立/設立流程.md",
+    "07_法規矩陣/法規對照表.md",
+    "AI對話紀錄備份.md",
+    "dump_chat.py",
+    "08_上台簡報準備/03_最終提案簡報/msoA21D.tmp",
+    "08_上台簡報準備/03_最終提案簡報/mso97CB.tmp",
+    "08_上台簡報準備/03_最終提案簡報/~$大葉園藝_最終提案大氣版.pptx",
+    "final_rebuild.py",
+    "08_上台簡報準備/03_最終提案簡報/msoDDE1.tmp",
+    "08_上台簡報準備/03_最終提案簡報/msoD313.tmp",
+    "fix_ppt.py",
+    "08_上台簡報準備/03_最終提案簡報/mso8F57.tmp",
+    "08_上台簡報準備/03_最終提案簡報/mso84C7.tmp",
+    "08_上台簡報準備/03_最終提案簡報/assets/finance_cropped.jpg",
+    "08_上台簡報準備/03_最終提案簡報/assets/arch_cropped.jpg",
+    "08_上台簡報準備/03_最終提案簡報/assets/plant_cropped.jpg",
+    "08_上台簡報準備/03_最終提案簡報/assets/cover_cropped.jpg",
+    "08_上台簡報準備/00_實戰提案簡報骨架.md",
+    "08_上台簡報準備/03_最終提案簡報/assets/plant.jpg",
+    "08_上台簡報準備/03_最終提案簡報/assets/finance.jpg",
+    "08_上台簡報準備/03_最終提案簡報/assets/cover.jpg",
+    "08_上台簡報準備/03_最終提案簡報/assets/arch.jpg",
+    "finance.jpg",
+    "arch.jpg",
+    "08_上台簡報準備/01_表現形式與報告設計.md",
+    "08_上台簡報準備/02_實戰演出劇本_大葉園藝全年度真人劇場.md",
+    "08_上台簡報準備/實戰劇本_大葉園藝全年度模擬.md",
+    "08_上台簡報準備/腳本02_設立後稅務篇.md",
+    "08_上台簡報準備/腳本01_公司設立篇.md",
+    "08_上台簡報準備/上台表現形式設計.md",
+    "大葉園藝_實戰提案簡報骨架.md",
+    "大葉園藝_期末簡報骨架.md",
+    "06_實戰QA題庫/實戰情境10題.md",
+    "02_收入分類與稅務判斷/花卉免稅邊界.md",
+    "00_研究計畫/研究計畫書.md",
+    "README.md",
+    "04_營利事業所得稅/暫繳制度與首年免暫繳.md",
+    "04_營利事業所得稅/營所稅計算3大公式與首年全年化.md",
+    "05_年度結算/未分配盈餘與股東分配.md",
+    "04_營利事業所得稅/書審與所得額標準比較.md",
+    "03_營業稅申報/401兼營申報實務.md",
+    "00_研究計畫/心智圖.md"
+  ]
+}

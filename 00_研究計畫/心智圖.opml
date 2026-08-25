@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>大葉園藝有限公司實務全貌</title>
+  </head>
+  <body>
+    <outline text="大葉園藝有限公司">
+      <outline text="成立前決策">
+        <outline text="為什麼選有限公司">
+          <outline text="vs 行號（無限清償責任）" />
+          <outline text="vs 股份有限公司（維運成本高）" />
+          <outline text="農業補助資格優勢" />
+        </outline>
+        <outline text="公司名稱預查">
+          <outline text="核准保留 6 個月" />
+          <outline text="建議同時登記 ZZ99999 概括條款" />
+        </outline>
+        <outline text="營業項目">
+          <outline text="ZZ99999 概括條款（除許可業務外）" />
+          <outline text="⚠️ 種苗業→需種苗業登記證（特許）" />
+        </outline>
+        <outline text="資本額 100 萬元">
+          <outline text="股東一次全額繳足" />
+          <outline text="驗資後資金可使用，但需留記錄" />
+        </outline>
+        <outline text="股東結構">
+          <outline text="陳父 50%" />
+          <outline text="陳大葉 50%（負責人）" />
+        </outline>
+      </outline>
+      <outline text="設立流程（7步）">
+        <outline text="① 名稱預查→核定書" />
+        <outline text="② 確定地址（自宅免租約）" />
+        <outline text="③ 銀行開籌備戶→存入 100 萬" />
+        <outline text="④ 會計師驗資 §7">
+          <outline text="⚠️ 驗資後 15 日內需送件" />
+          <outline text="⚠️ 禁止借款過水驗資（§9 刑責）" />
+        </outline>
+        <outline text="⑤ 送件設立登記 §387" />
+        <outline text="⑥ 稅籍登記 §28（設立後 15 日內）">
+          <outline text="申請電子發票" />
+          <outline text="刻章：大章、小章、發票章" />
+        </outline>
+        <outline text="⑦ CTP 主要股東申報 §22-1">
+          <outline text="⚠️ 設立後 15 日內" />
+          <outline text="⚠️ 漏報罰 NT 萬～500 萬" />
+        </outline>
+      </outline>
+      <outline text="收入分類與稅務判斷">
+        <outline text="免稅 §8-1-19（未加工農產品）">
+          <outline text="切花、盆栽（原始產物）" />
+          <outline text="花卉批發（未加工）" />
+          <outline text="花卉零售（未加工）" />
+          <outline text="⚠️ 盆栽容器限制：塑膠/陶土/蛇木/紙/木材" />
+        </outline>
+        <outline text="應稅 5%（加工品或勞務）">
+          <outline text="乾燥花、禮盒（加工品）" />
+          <outline text="園藝維護服務（勞務）" />
+          <outline text="景觀設計施工（工程）" />
+          <outline text="體驗課程、DIY 活動" />
+        </outline>
+        <outline text="灰色地帶（需個案判斷）">
+          <outline text="網路銷售→視品項決定" />
+          <outline text="花藝作品→通常應稅" />
+        </outline>
+        <outline text="結論：本案屬兼營→申報 401" />
+      </outline>
+      <outline text="帳務記錄">
+        <outline text="收入科目" />
+        <outline text="支出科目">
+          <outline text="農業資材、肥料" />
+          <outline text="薪資與勞健保" />
+          <outline text="設備折舊（耐用年限表）" />
+          <outline text="車輛費用" />
+          <outline text="電商平台手續費" />
+        </outline>
+        <outline text="⚠️ 兼營進項稅額分攤">
+          <outline text="直接扣抵法（帳務清楚者）" />
+          <outline text="比例扣抵法（無法明確區分者）" />
+        </outline>
+        <outline text="股東往來 vs 薪資（需釐清）" />
+      </outline>
+      <outline text="營業稅申報">
+        <outline text="本案：兼營→401 申報書" />
+        <outline text="每奇數月 15 日前申報" />
+        <outline text="年底最後一期：兼營比例調整" />
+        <outline text="電子發票（雲端發票）" />
+        <outline text="⚠️ 免稅銷售開免稅發票，應稅開應稅發票" />
+      </outline>
+      <outline text="營利事業所得稅">
+        <outline text="稅率結構">
+          <outline text="所得 ≤ 12 萬→免稅" />
+          <outline text="超過 12 萬→20%（有半數免稅天花板）" />
+          <outline text="超過 50 萬→20%" />
+        </outline>
+        <outline text="申報方式比較">
+          <outline text="一般查帳申報" />
+          <outline text="擴大書面審核（收入 &lt; 3000 萬）" />
+          <outline text="所得額標準申報" />
+          <outline text="同業利潤標準申報" />
+          <outline text="⚠️ 三者不同，不可混用" />
+        </outline>
+        <outline text="暫繳（9 月）">
+          <outline text="前年度應納稅額 × 50%" />
+          <outline text="或試算暫繳（實際損益計算）" />
+        </outline>
+        <outline text="年度結算申報（隔年 5 月）" />
+      </outline>
+      <outline text="年度結算">
+        <outline text="稅後盈餘計算" />
+        <outline text="未分配盈餘加徵 5%">
+          <outline text="⚠️ 不分配 ≠ 不申報" />
+          <outline text="可減除：實質投資、次年分配等" />
+          <outline text="申報期限：次年 5 月" />
+        </outline>
+        <outline text="股東分配盈餘" />
+      </outline>
+      <outline text="常見地雷（初學者）">
+        <outline text="種苗業忘記先申請登記證" />
+        <outline text="驗資後誤以為錢不能動" />
+        <outline text="CTP §22-1 忘記申報" />
+        <outline text="未分配盈餘以為不用管" />
+        <outline text="免營業稅以為也免所得稅" />
+        <outline text="家族成員薪資超額不被認列" />
+        <outline text="電商代收款發票開立時點錯誤" />
+        <outline text="進項不得扣抵比例未年底調整" />
+      </outline>
+    </outline>
+  </body>
+</opml>
