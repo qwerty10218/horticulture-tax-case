@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
     <title>大葉園藝有限公司實務全貌</title>
@@ -19,7 +19,7 @@
           <outline text="ZZ99999 概括條款（除許可業務外）" />
           <outline text="⚠️ 種苗業→需種苗業登記證（特許）" />
         </outline>
-        <outline text="資本額 100 萬元">
+        <outline text="資本額 500 萬元">
           <outline text="股東一次全額繳足" />
           <outline text="驗資後資金可使用，但需留記錄" />
         </outline>
@@ -31,7 +31,7 @@
       <outline text="設立流程（7步）">
         <outline text="① 名稱預查→核定書" />
         <outline text="② 確定地址（自宅免租約）" />
-        <outline text="③ 銀行開籌備戶→存入 100 萬" />
+        <outline text="③ 銀行開籌備戶→存入 500 萬" />
         <outline text="④ 會計師驗資 §7">
           <outline text="⚠️ 驗資後 15 日內需送件" />
           <outline text="⚠️ 禁止借款過水驗資（§9 刑責）" />
@@ -43,7 +43,8 @@
         </outline>
         <outline text="⑦ CTP 主要股東申報 §22-1">
           <outline text="⚠️ 設立後 15 日內" />
-          <outline text="⚠️ 漏報罰 NT 萬～500 萬" />
+          <outline text="⚠️ 漏報罰 NT$5 萬～500 萬" />
+          <outline text="可自行上網申報或事務所代辦（約2,500元）" />
         </outline>
       </outline>
       <outline text="收入分類與稅務判斷">
@@ -63,7 +64,7 @@
           <outline text="網路銷售→視品項決定" />
           <outline text="花藝作品→通常應稅" />
         </outline>
-        <outline text="結論：本案屬兼營→申報 401" />
+        <outline text="結論：本案屬兼營→申報 403" />
       </outline>
       <outline text="帳務記錄">
         <outline text="收入科目" />
@@ -80,40 +81,38 @@
         </outline>
         <outline text="股東往來 vs 薪資（需釐清）" />
       </outline>
-      <outline text="營業稅申報">
-        <outline text="本案：兼營→401 申報書" />
-        <outline text="每奇數月 15 日前申報" />
-        <outline text="年底最後一期：兼營比例調整" />
-        <outline text="電子發票（雲端發票）" />
-        <outline text="⚠️ 免稅銷售開免稅發票，應稅開應稅發票" />
+      <outline text="營業稅申報（兼營→403 申報書）">
+        <outline text="每 2 個月一期（單數月 15 日前申報）" />
+        <outline text="憑證提供：單數月 8 日前提供事務所" />
+        <outline text="發票開立（統一發票使用辦法）">
+          <outline text="三聯式（B2B）：統編、銷售額未稅、稅額5%、存扣收蓋章、不可塗改" />
+          <outline text="二聯式（B2C）：含稅價、存收蓋章、不可塗改" />
+        </outline>
+        <outline text="不得扣抵項目（營業稅法 §19）" />
+        <outline text="兼營不得扣抵比例 = 免稅收入 ÷ 全部收入" />
+        <outline text="年底最後一期：兼營全年度比例調整" />
       </outline>
-      <outline text="營利事業所得稅">
-        <outline text="稅率結構">
+      <outline text="營利事業所得稅（114 年度綠化服務）">
+        <outline text="稅率級距（所得稅法 §5）">
           <outline text="所得 ≤ 12 萬→免稅" />
-          <outline text="超過 12 萬→20%（有半數免稅天花板）" />
-          <outline text="超過 50 萬→20%" />
+          <outline text="12 萬～20 萬→（所得 - 12萬）÷ 2" />
+          <outline text="超過 20 萬→20%" />
         </outline>
-        <outline text="申報方式比較">
-          <outline text="一般查帳申報" />
-          <outline text="擴大書面審核（收入 &lt; 3000 萬）" />
-          <outline text="所得額標準申報" />
-          <outline text="同業利潤標準申報" />
-          <outline text="⚠️ 三者不同，不可混用" />
+        <outline text="申報方式費率（114年度綠化服務 9101-12）">
+          <outline text="擴大書面審核：4%（營業額 &lt; 3000 萬）" />
+          <outline text="所得額標準：7%（營業額 &gt; 3000 萬）" />
+          <outline text="同業利潤標準：8%（抽查帳證不全逕決）" />
         </outline>
-        <outline text="暫繳（9 月）">
-          <outline text="前年度應納稅額 × 50%" />
-          <outline text="或試算暫繳（實際損益計算）" />
-        </outline>
-        <outline text="年度結算申報（隔年 5 月）" />
+        <outline text="虧損扣抵（所得稅法 §39 盈虧互抵 10 年）" />
+        <outline text="暫繳制度（所得稅法 §69 首年免暫繳）" />
       </outline>
-      <outline text="年度結算">
-        <outline text="稅後盈餘計算" />
-        <outline text="未分配盈餘加徵 5%">
-          <outline text="⚠️ 不分配 ≠ 不申報" />
-          <outline text="可減除：實質投資、次年分配等" />
-          <outline text="申報期限：次年 5 月" />
+      <outline text="年度結算（非本次簡報重點，僅供參考）">
+        <outline text="稅後淨利分配順序">
+          <outline text="① 彌補以往年度虧損" />
+          <outline text="② 提列 10% 法定盈餘公積" />
+          <outline text="③ 分配股利（現金股利、股票股利）" />
         </outline>
-        <outline text="股東分配盈餘" />
+        <outline text="未分配盈餘加徵 5%（所得稅法 §66-9）" />
       </outline>
       <outline text="常見地雷（初學者）">
         <outline text="種苗業忘記先申請登記證" />
